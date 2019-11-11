@@ -20,3 +20,15 @@ import { CreateAmostraComponent } from './amostra/create-amostra/create-amostra.
   bootstrap: [AppComponent]
 })
 export class AppModule { }
+
+// @Component({
+//   selector: 'some-component',
+//   template: '<div></div>',
+//   styleUrls: [
+//       'http://example.com/external.css',
+//       'app/local.css'
+//   ], 
+//   encapsulation: ViewEncapsulation.None, 
+// })
+// export class SomeComponent {}
+// https://angular.io/guide/component-styles
